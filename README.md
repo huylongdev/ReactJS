@@ -1,2 +1,3 @@
 # ReactJS
-For learning.
+
+Sources for learning ReactJS. 
